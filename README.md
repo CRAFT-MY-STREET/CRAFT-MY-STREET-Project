@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cms_logo_with_outline.png" alt="Logo" width="70%"/>
+</p>
+
 # CRAFT-MY-STREET-Project
 Our project focuses on engaging children and young people in decision-making through digital technologies and games.
 
